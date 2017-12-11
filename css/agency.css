@@ -480,7 +480,8 @@ section#contact {
 
 footer {
   padding: 25px 0;
-  text-align: center; }
+  text-align: center;
+  background-color:lightgrey;}
   footer span.copyright {
     font-size: 90%;
     line-height: 40px;
